@@ -1,1 +1,5 @@
-# Personal-Finance-Dashboard
+![Personal_Finance_1](https://user-images.githubusercontent.com/79933550/187069470-2919cdd9-3fbf-430b-a5f1-0f99c7fb9430.jpg)
+![Personal_Finance_2018](https://user-images.githubusercontent.com/79933550/187069473-5af395d1-042f-493b-b6e6-e6cf082b2e54.jpg)
+![Personal_Finance_2019](https://user-images.githubusercontent.com/79933550/187069474-c00b655b-08c5-4d93-ad80-6555eccc8633.jpg)
+![Personal_Finance_2020](https://user-images.githubusercontent.com/79933550/187069475-2d6a8996-f8ce-4508-8bd3-aa3b3b9d0ad8.jpg)
+![Personal_Finance_2021](https://user-images.githubusercontent.com/79933550/187069476-c794726e-e157-433e-b2bf-db25b467b9bb.jpg)
